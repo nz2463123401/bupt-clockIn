@@ -176,8 +176,4 @@
      "appToken": "AT_xxxxxxxxxxxxxxxxxxxx",
      "uid": "UID_xxxxxxxxxxxxxxxxxxxx"
    }
-   ```
-
-## 运行截图
-
-![9](img/9.png)
+ I'M FAIN ,THINK
